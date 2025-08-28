@@ -1,3 +1,5 @@
+Warning! This repository is archived and not planned to be updated. All relevant changes have been merged into the main branch of the source repository as of 2025-08-28.
+
 # powerbi-visuals-sankey
 [![Build Status](https://github.com/microsoft/powerbi-visuals-sankey/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/microsoft/powerbi-visuals-sankey/actions/workflows/build.yml)
 > Sankey is a type of flow diagram in which the width of the series is in proportion to the quantity of the flow. Use it to find major contributions to an overall flow.
